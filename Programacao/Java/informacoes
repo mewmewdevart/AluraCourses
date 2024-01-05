@@ -1,3 +1,10 @@
+A configurar uma aplicação para que ela escolha entre executar uma ação ou outra baseada em algum elemento;
+Comparações para as condicionais: igual, diferente, maior, menor;
+A usar a leitura do teclado com a classe Scanner;
+Trabalhar com alternativas para as condicionais e escolher a ideal para o caso escolhido;
+A utilizar estruturas de repetição com for e while.
+
+
 A trabalhar com variáveis: recurso utilizado para armazenar valores em memória;
 
 Sobre tipos primitivos:
